@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Project Overview
+    url: https://github.com/shaom/infocard-video-skills/blob/main/docs/project-overview.md
+    about: Read the repository scope before opening a new issue.
+  - name: Skill Architecture
+    url: https://github.com/shaom/infocard-video-skills/blob/main/docs/skill-architecture.md
+    about: Check whether the request fits the current skill structure.

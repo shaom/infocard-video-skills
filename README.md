@@ -86,6 +86,7 @@ Keep these files together:
 README.md
 README.zh-CN.md
 CONTRIBUTING.md
+SECURITY.md
 skills/
   remotion-video-workflow/
 docs/
@@ -123,6 +124,7 @@ It should demonstrate the standard short-video structure, brand integration, bac
 - [`docs/repository-roadmap.md`](./docs/repository-roadmap.md)
 - [`docs/github-metadata.md`](./docs/github-metadata.md)
 - [`docs/publishing-checklist.md`](./docs/publishing-checklist.md)
+- [`SECURITY.md`](./SECURITY.md)
 
 ## Development and Verification
 
