@@ -1,5 +1,9 @@
 # infocard-video-skills
 
+[![视频预览](./docs/media/github-trending-agents-top10-4x3-preview.webp)](./docs/media/github-trending-agents-top10-4x3.mp4)
+
+[下载演示视频](./docs/media/github-trending-agents-top10-4x3.mp4)
+
 面向 Agent 的可复用 Remotion 视频技能仓库，用于结构化短视频制作。
 
 [English](./README.md)
