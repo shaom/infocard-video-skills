@@ -1,5 +1,9 @@
 # infocard-video-skills
 
+<video src="./docs/media/github-trending-agents-top10-4x3.mp4" controls muted playsinline></video>
+
+[Download the demo video](./docs/media/github-trending-agents-top10-4x3.mp4)
+
 Reusable Remotion agent skills for structured short-form video production.
 
 [中文说明](./README.zh-CN.md)
