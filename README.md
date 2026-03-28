@@ -1,6 +1,6 @@
 # infocard-video-skills
 
-<video src="./docs/media/github-trending-agents-top10-4x3.mp4" controls muted playsinline></video>
+[![Demo video preview](./docs/media/github-trending-agents-top10-4x3-cover.jpg)](./docs/media/github-trending-agents-top10-4x3.mp4)
 
 [Download the demo video](./docs/media/github-trending-agents-top10-4x3.mp4)
 
